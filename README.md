@@ -1,6 +1,6 @@
 # 💫 About Me:
-- 📖 I'm currently study at KOSEN-KMITL<br>💻 Year 4 Computer Engineering
-- 🌱 I’m currently learning about Web application
+- 📖 I'm currently study at KOSEN-KMITL<br>💻 Year 5 Computer Engineering
+- 🌱 I’m currently learning about Web application 
 
 
 
