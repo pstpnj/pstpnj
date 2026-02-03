@@ -2,7 +2,6 @@
 
 ### A passionate developer who enjoys coding
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pstpnj&label=Profile views&color=0e75b6&style=flat" alt="pstpnj" /> </p>
 
 - 🌱 I'm currently learning **Vue.js**
 
