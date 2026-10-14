@@ -3,7 +3,7 @@
 ### A passionate developer who enjoys coding
 
 
-- 🌱 I'm currently learning **Vue.js**
+- 🌱 I'm currently **.NET Developer**
 
 - 📫 How to reach me **sasawat.thee@gmail.com**
 
